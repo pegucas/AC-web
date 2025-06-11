@@ -1,0 +1,29 @@
+
+.geral{
+    text-align: center;
+}
+
+.navBar{
+    width: 100%;
+    background-color:aqua ;
+    padding: 3px 0px;
+}
+
+ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+main{
+    background-color: red ;
+    text-align: center;
+    color:black;
+    padding: 1%;
+}
+
+footer{
+    background-color: cadetblue;
+    width: 100%;
+    text-align: center;
+    padding: 10%;
+}
